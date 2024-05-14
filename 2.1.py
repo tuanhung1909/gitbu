@@ -82,4 +82,6 @@ while True:
     else:
         print("Không hợp lệ!")
         break
-
+"""
+This is some sort of a major update that need to be sync up with the remote
+"""
